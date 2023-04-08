@@ -2,8 +2,8 @@
 <img src="./icon.svg" alt="icon"/>
 
 <h1 align="center">ChatGPT Next Web</h1>
-<h5 align="center">尊敬的用户</h5>
-<h5 align="center">
+<h3 align="center">尊敬的用户</h3>
+<h3 align="center">
 欢迎您来到本站！我们是基于美国Open ai公司ChatGPT -3.5创建的国内镜像站，以供大家免费体验、学习、交流使用。
 如果您想拥有自已独立的 chatGPT使用帐号， 或者像我们一样建立一个镜像站，请联系：微信：kcn010
 （加微时请注明：“GPT”）
@@ -16,8 +16,8 @@ https://pan.baidu.com/s/1njTDNVYfXyJ3EijAAbMdqw 提取码:8pin
 由于本站连接到ChatGPT API接口需要付出费用，并且开发、维护和运行都需要付出财力和人力成本，如果您在本站体验良好且愿意长期使用本站，请适当为本站分担些许费用，以期本站能够长期稳定运行。谢谢！
 致，礼！
 
-</h5>
-<h5 align="center">本站开发运营团队。</h5>
+</h3>
+<h3 align="center">本站开发运营团队。</h3>
 <img src="./cover.jpg"/>
 
 
