@@ -15,9 +15,9 @@ https://pan.baidu.com/s/1njTDNVYfXyJ3EijAAbMdqw 提取码:8pin
 切不可将本站通过微信直接分享给好友,或公开发布于社交平台!
 由于本站连接到ChatGPT API接口需要付出费用，并且开发、维护和运行都需要付出财力和人力成本，如果您在本站体验良好且愿意长期使用本站，请适当为本站分担些许费用，以期本站能够长期稳定运行。谢谢！
 致，礼！
-本站开发运营团队。
+
 </h5>
-<h5 align="center"></h5>
+<h5 align="center">本站开发运营团队。</h5>
 <img src="./cover.jpg"/>
 
 
